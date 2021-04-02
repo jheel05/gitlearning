@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609683428 source:f:\patterns\main.cpp
+	<iostream>
+
+1609684374 source:f:\patterns\2.cpp
+	<iostream>
+
