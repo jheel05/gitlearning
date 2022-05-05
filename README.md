@@ -34,3 +34,9 @@ git clone [url]
 ```bash
 git add [file]
 ```
+
+### git commit
+* This command records or snapshots the file permanently in the version history.
+```bash
+git commit -m “[ Type in the commit message]”
+```
