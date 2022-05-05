@@ -27,3 +27,10 @@ git init [repository name]
 ```bash
 git clone [url] 
 ```
+
+### git add
+* This command adds a file to the staging area.
+
+```bash
+git add [file]
+```
