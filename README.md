@@ -20,3 +20,10 @@ git config –global user.email “[email address]”
 ```bash
 git init [repository name]
 ```
+
+### git clone
+* This command is used to obtain a repository from an existing URL.
+
+```bash
+git clone [url] 
+```
