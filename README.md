@@ -34,3 +34,7 @@ git clone [url]
 ```bash
 git add [file]
 ```
+```bash
+git add *
+```
+This command adds one or more to the staging area.
